@@ -57,3 +57,15 @@ footer {
   font-size: 16px;
   color: #555;
 }
+#profile-photo {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#profile-photo img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #333;
+  object-fit: cover;
+}
